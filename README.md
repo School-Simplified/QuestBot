@@ -11,8 +11,8 @@ Let me elaborate, there are 2 main commands
 # Why is this a better alternative then just staff doing it themselves?
 Well there is 1 main reason, The reason is that it engages with the community, if a person get's their question / quote featured, it'll make them want to return! This can lead to a better trust!
 
-# WHY ARE YOU USING JAVASCRIPT AND NOT (INSERT OTHER PROGRAMMING LANGUAGE HERE)?
-idk don't judge i beg
+# Why are you using Java Script instead of (Insert Programming Language Here)
+Why are you doubting something that works?
 
 # CONTACT ME!
 If you have any questions about this project, message me on discord at mangoess#4904.
